@@ -1,0 +1,9 @@
+C:\Dev\TimeClicker\TimeClicker\bin\Release\TimeClicker.exe.config
+C:\Dev\TimeClicker\TimeClicker\bin\Release\TimeClicker.exe
+C:\Dev\TimeClicker\TimeClicker\bin\Release\TimeClicker.pdb
+C:\Dev\TimeClicker\TimeClicker\obj\Release\TimeClicker.TimeClicker.resources
+C:\Dev\TimeClicker\TimeClicker\obj\Release\TimeClicker.Properties.Resources.resources
+C:\Dev\TimeClicker\TimeClicker\obj\Release\TimeClicker.csproj.GenerateResource.cache
+C:\Dev\TimeClicker\TimeClicker\obj\Release\TimeClicker.csproj.CoreCompileInputs.cache
+C:\Dev\TimeClicker\TimeClicker\obj\Release\TimeClicker.exe
+C:\Dev\TimeClicker\TimeClicker\obj\Release\TimeClicker.pdb
